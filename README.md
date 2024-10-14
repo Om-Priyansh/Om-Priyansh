@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying in BITS Pilani KK Birla Goa Campus, pursuing B.E. Computer Science and Msc. Physics.
 - 💬 Experienced developer in **JavaScript, MERN Stack, Postgresql**
 - 📫 Reach out to me on my email **ompriyansh24@gmail.com**
-- 👨‍💻 All of my projects are available **[on my GitHub](https://github.com/Om-Priyansh)**
+- 👨‍💻 All of my projects are available **[on my GitHub:](https://github.com/Om-Priyansh)**
 <!-- - 📄 Know about my experiences **[here](https://drive.google.com/file/d/1M7TlbI_udwuMyDtjh9KOvziyKdi-BdRY/view?usp=sharing)** -->
 <!-- - ⚡ Fun fact **Binged 2 shows in a day** -->
 
