@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Om-Priyansh&label=Profile%20views&color=0e75b6&style=flat" alt="Om-Priyansh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Om-Priyansh&theme=discord" alt="Om-Priyansh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Om-Priyansh&theme=dark_lover" alt="Om-Priyansh" /></a> </p>
 
 - 🔭 I’m currently studying in BITS Pilani KK Birla Goa Campus, pursuing B.E. Computer Science and Msc. Physics.
 - 💬 Experienced developer in **JavaScript, MERN Stack, Postgresql**
