@@ -1,5 +1,5 @@
 <h1 align="center">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=0D8B46&lines=Hi+There!+👋;+I'm+Om+Priyansh+Singh;I'm+a+Web+Developer+💻;I'm+a+Passionate+Coder+👩‍💻;" />
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=0D8B46&lines=Hi+There!+👋;+I'm+Om+Priyansh+Singh;I'm+a+Web+Developer+💻;I'm+a+Passionate+Coder+👨‍💻;" />
 </h1>
 <h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Om-Priyansh&label=Profile%20views&color=0e75b6&style=flat" alt="Om-Priyansh" /> </p>
